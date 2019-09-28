@@ -1,0 +1,17 @@
+{
+  "name": "payslip-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémi Le Bourhis",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "hummus-recipe": "^1.8.18",
+    "lodash": "^4.17.15",
+    "pdf2json": "^1.1.8"
+  }
+}
